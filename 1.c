@@ -3,7 +3,9 @@ void main(void)
 {
 	int i,k;
 	uuu
-	int j;
+	
+aaaaa
+int j;
 	printf("hello world!\n");
 
 }
